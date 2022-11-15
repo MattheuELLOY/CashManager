@@ -1,0 +1,2 @@
+# CashManager
+EPITECH Project CashManager
